@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Collatz Conjecture</title>
+    <title>Collatz_Conjecture</title>
 </head>
 <body>
     <h1>Collatz Conjecture</h1>
